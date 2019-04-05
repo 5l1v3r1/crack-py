@@ -9,7 +9,7 @@ $ crack -h
 $ crack -p <path> <password>
 ```
 
-untuk sementara baru support `python2` dan dilingkup keluarga `linux`saja.
+untuk sementara baru support `python2` dan dilingkup keluarga `linux` saja.
 belum ada yang mencoba menjalankan di `windows`
 
 ## obfuscate menggunakan no-strint
