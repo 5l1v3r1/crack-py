@@ -1,4 +1,4 @@
-## i guess they never miss huh?
+## idiot
 
 untuk installasi cukup ketikan `pip2 install .` didalam folder
 `crack-py`
