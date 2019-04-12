@@ -1,7 +1,6 @@
-## idiot
 
 untuk installasi cukup ketikan `pip2 install .` didalam folder
-`crack-py`
+`crack-py
 
 ## penggunaan setelah installasi selesai
 ``` bash
